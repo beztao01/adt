@@ -12,7 +12,7 @@ Reglas de clase <br>
 Reglamento general de estudiantes... <br>
 Acreditación <br>
 Blackboard foro de presentación <br>
-Biblografia y referencias
+Biblografía y referencias <br>
 Firma Syllabus
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
