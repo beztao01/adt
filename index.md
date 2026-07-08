@@ -3,11 +3,11 @@ title: Sesion01
 layout: home
 ---
 
-Calendario
-Bitácora
-Syllabus
-Documento de información general
-Reglamento
+Calendario <br>
+Bitácora <br>
+Syllabus <br>
+Documento de información general <br>
+Reglamento <br>
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
