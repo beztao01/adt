@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sesion 03
+title: Sesión 03
 nav_order: 2
 ---
 
