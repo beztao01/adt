@@ -2,7 +2,7 @@
 title: Sesión 01
 layout: home
 ---
-# Sesion 01
+# Sesión 01
 
 Calendario <br>
 Bitácora <br>
