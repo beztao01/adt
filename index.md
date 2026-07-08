@@ -1,5 +1,5 @@
 ---
-title: Sesion 01
+title: Sesión 01
 layout: home
 ---
 # Sesion 01
@@ -8,7 +8,12 @@ Calendario <br>
 Bitácora <br>
 Syllabus <br>
 Documento de información general <br>
-Reglamento <br>
+Reglas de clase <br>
+Reglamento general de estudiantes... <br>
+Acreditación <br>
+Blackboard foro de presentación <br>
+Biblografia y referencias
+Firma Syllabus
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
