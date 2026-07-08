@@ -1,5 +1,5 @@
 ---
-title: Sesion01
+title: Sesion 01
 layout: home
 ---
 # Sesion 01
